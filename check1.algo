@@ -1,5 +1,5 @@
 // the sum of all distinct elements from the set.
-function sumOfDistinctElements(arr1, arr2) {
+  function sumOfDistinctElements(arr1, arr2) {
   // Create a Set from the first array and convert it back to an array
   const set1 = [...new Set(arr1)];
   
